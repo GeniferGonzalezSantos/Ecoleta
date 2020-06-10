@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  *[Tecnologias](#Tecnologias) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  *[Projeto](#Projeto)>
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
