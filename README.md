@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  [Tecnologias](##Tecnologias) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [Projeto](##Projeto)>
+  *[Tecnologias](#Tecnologias) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  *[Projeto](#Projeto)>
 </p>
 
 <br>
