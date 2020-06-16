@@ -2,7 +2,6 @@ import Knex from 'knex';
 
 export async function seed(knex: Knex) {
     await knex('items').insert([
-        //cada um desses objetos é um registro dentro da tabela
         { title: 'Lâmpadas', image: 'lampadas.svg' },
         { title: 'Pilhas e baterias', image: 'baterias.svg' },
         { title: 'Papéis e Papelão', image: 'papeis-papelao.svg' },

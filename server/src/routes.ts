@@ -36,13 +36,3 @@ pointsController.create);
 
 
 export default routes;
-
-//como demora pra carregar o servidor foi add o --ignore-watch node_modules para evitar de carregar todos esses arquivos 
-//desacoplar o código: paterns. Estruturas de pastas para ficar mais legível
-
-// é um padrão da comunidade usar esses métodos quando se usa a pasta controller:
-//index: para listagem
-//show: se for exibir um unico registro
-//create/store
-//update
-//delete/destroy

@@ -1,4 +1,3 @@
-//arquivo responsável pelo conexão com o banco de dados
 import knex from 'knex';
 import path from 'path'; 
 

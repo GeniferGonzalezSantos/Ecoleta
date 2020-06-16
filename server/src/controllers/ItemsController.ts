@@ -2,11 +2,10 @@ import { Request, Response } from 'express';
 import knex from '../database/conection';
 
 class ItemsController {
-    //método index é para listagem
+
     async index(request: Request, response: Response) {
         const items = await knex('items').select('*');
 
-        //transforma os dados pra um novo formato que vai ser mais acessível para quem tá utilizando -serialized- cerealização de dados
         const serializedItems = items.map(item => {
             return {
                 id: item.id,

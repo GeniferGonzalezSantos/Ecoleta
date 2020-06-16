@@ -11,7 +11,6 @@ app.use(express.json());
 app.use(routes);
 
 app.use('/uploads', express.static(path.resolve(__dirname, '..', 'uploads' )));
-//função específica do express que vão precisar acessar funções de forma direta pdf, imagem, word, tudo que colocar dowload(arqivos estáticos)
 
 app.use(errors());
 

@@ -1,6 +1,5 @@
 import Knex from "knex";
 
-//realiza as alterações no banco. Vamos criar tabela
 export async function up(knex: Knex) {
      return knex.schema.createTable('points', table => {
         table.increments('id').primary();
@@ -15,7 +14,6 @@ export async function up(knex: Knex) {
     })
 }
 
-//deve ser usado para deletar as alterações. Sempre que tiver um up DEVE ter um down
 export async function down(knex: Knex) {
     return knex.schema.dropTable('point');
 
