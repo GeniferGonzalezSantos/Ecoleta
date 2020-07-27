@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Para rodar o projeto é preciso um "npm start" na pasta server e web.
+Para rodar o projeto é preciso um ```
+npm start
+```na pasta server e web.
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente. Feita para web e mobile, cadastra o ponto de coleta e especifica os itens coletados. Esses dados ficam no banco de dados e quando o usuário procura um ponto de coleta perto do seu local de interesse, o mapa mostra os mais próximos.Esse é um projeto incrível que a @Rocketseat ensinou a desenvolver em uma semana, a do meio ambiente.
